@@ -1,0 +1,13 @@
+
+build/
+cmake-build-*/
+
+.vscode/
+.vs/
+*.vcxproj*
+*.sln
+
+libs/
+third_party/
+
+assets/models/large_files/
